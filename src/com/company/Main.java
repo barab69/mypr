@@ -11,7 +11,6 @@ public class Main {
       System.out.println(kkk.getMproc());
       kkk.Vivod();
       kkk.Rabota(scan);
-      kkk.Vivod();
 
 
      // Comp kkm=new Comp("I8");
